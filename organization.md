@@ -22,18 +22,18 @@ permalink: /organization/
  Alberto Avritzer, Sonatype, USA
  Jan Bosch, Chalmers U of Technology, Sweden
  Andreas Brunnert, RETIT, Germany
- Lubomír Bulej, Charles U, Czech Republic
- David Carrera, U Politècnica de Catalunya, Spain
- Jürgen Cito, U of Zurich, Switzerland
+ LubomÃ­r Bulej, Charles U, Czech Republic
+ David Carrera, U PolitÃ¨cnica de Catalunya, Spain
+ JÃ¼rgen Cito, U of Zurich, Switzerland
  Antonio Filieri, Imperial College London, UK
- Daniel Fogl, FAU Nürnberg, Germany
+ Daniel Fogl, FAU NÃ¼rnberg, Germany
  Michael Goedicke, U Duisburg-Essen, Germany
  Zhen Ming (Jack) Jiang, York U, Canada
  Martin Jung, develop group, Germany
  Thomas Kurpick, Trusted Shops, Germany
  Klaus-Dieter Lange, HP Enterprise, USA
  Marin Litoiu, York U, Canada
- Zoltán Adam Mann, U Duisburg-Essen, Germany
+ ZoltÃ¡n Adam Mann, U Duisburg-Essen, Germany
  Christian Nester, Google Inc., USA
  Claus Pahl, Free U of Bozen-Bolzano, Italy
  Cesare Pautasso, U of Lugano, Switzerland 
@@ -48,4 +48,5 @@ permalink: /organization/
  Stefan Wagner, U Stuttgart, Germany
  Ingo Weber, NICTA, Australia
  Erik Wilde, CA API Academy, USA
+
 
