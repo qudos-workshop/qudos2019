@@ -12,7 +12,7 @@ permalink: /organization/
 
 [Danilo Ardagna](http://ardagna.faculty.polimi.it/), Politecnico di Milano, Italy  
 [Giuliano Casale](http://wp.doc.ic.ac.uk/gcasale/), Imperial College London, UK  
-[Andre van Hoorn](http://www.iste.uni-stuttgart.de/rss/people/vanhoorn/), University of Stuttgart, Germany  
+[Andre van Hoorn](https://www.iste.uni-stuttgart.de/institute/team/van-Hoorn/), University of Stuttgart, Germany  
 [Philipp Leitner](http://www.chalmers.se/en/staff/Pages/philipp-leitner.aspx), Chalmers | University of Gothenburg, Sweden
 
 
@@ -43,7 +43,7 @@ permalink: /organization/
  Josef Spillner, ZHAW Winterthur, Switzerland
  Asser Tantawi, IBM Research, USA
  Matthias Tichy, U Ulm, Germany 
- Petr T?ma, Charles U, Czech Republic
+ Petr Tuma, Charles U, Czech Republic
  Christian Uhl, codecentric AG, Germany
  Stefan Wagner, U Stuttgart, Germany
  Ingo Weber, NICTA, Australia
