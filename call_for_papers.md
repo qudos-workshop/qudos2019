@@ -2,8 +2,11 @@
 CALL FOR PAPERS
 
 Joint CSE/QUDOS Workshop 2019
+
 4th Workshop on Continuous Software Engineering 
+
 and 
+
  5th International Workshop on Quality-Aware DevOps
 
 Co-located with the
@@ -12,15 +15,21 @@ Co-located with the
 Hamburg, Germany
 March 26, 2019
 
-https://cse2019.swc-rwth.de/ - http://2019.qudos-workshop.org/
+https://cse2019.swc-rwth.de/
+
+http://2019.qudos-workshop.org/
+
 https://twitter.com/qudos_workshop
 
 ------------------------------------------------------------------------------------------
 IMPORTANT DATES
 
 Submission deadline              Jan 17, 2019 (AoE)
+
 Paper notification                    Feb 07, 2019
+
 Camera-ready deadline                 Feb 21, 2019
+
 Workshop date                         Mar 26, 2019
 
 ------------------------------------------------------------------------------------------
@@ -47,61 +56,8 @@ Topics of interest include, but are not limited to:
  * Applications and Experiences: Case Studies in cloud computing, Big Data, and IoT/Edge Computing; standardization and interoperability; novel application domains, etc.
  * All other topics related to quality in DevOps and agile service delivery models
 
-------------------------------------------------------------------------
-ORGANIZING COMMITTEE
-CSE/QUDOS 2019 will be organized by the Program Committee Chairs and the Steering Committees of the CSE and QUDOS workshops series. 
+------------------------------------------------------------------------------------------
 
-Program Committee Chairs
- Damian A. Tamburri, TU/e - JADS, The Netherlands
- Stephan Krusche, TU Munich, Germany
- Andreas Steffens, RWTH Aachen University, Germany
- Uwe Zdun,University of Vienna, Austria 
-
-Program Committee (partly to be confirmed)
- Varsha Apte, IIT Bombay, India
- Alberto Avritzer, Sonatype, USA
- Jan Bosch, Chalmers U of Technology, Sweden
- Andreas Brunnert, RETIT, Germany
- Lubomír Bulej, Charles U, Czech Republic
- David Carrera, U Politècnica de Catalunya, Spain
- Jürgen Cito, U of Zurich, Switzerland
- Antonio Filieri, Imperial College London, UK
- Daniel Fogl, FAU Nürnberg, Germany
- Michael Goedicke, U Duisburg-Essen, Germany
- Zhen Ming (Jack) Jiang, York U, Canada
- Martin Jung, develop group, Germany
- Thomas Kurpick, Trusted Shops, Germany
- Klaus-Dieter Lange, HP Enterprise, USA
- Marin Litoiu, York U, Canada
- Zoltán Adam Mann, U Duisburg-Essen, Germany
- Christian Nester, Google Inc., USA
- Claus Pahl, Free U of Bozen-Bolzano, Italy
- Cesare Pautasso, U of Lugano, Switzerland 
- Dorina Petriu, Carleton U, Canada
- Meikel Poess, Oracle, USA
- Weiyi (Ian) Shang, Concordia U, Canada
- Josef Spillner, ZHAW Winterthur, Switzerland
- Asser Tantawi, IBM Research, USA
- Matthias Tichy, U Ulm, Germany 
- Petr Tuma, Charles U, Czech Republic
- Christian Uhl, codecentric AG, Germany
- Stefan Wagner, U Stuttgart, Germany
- Ingo Weber, NICTA, Australia
- Erik Wilde, CA API Academy, USA
-
-CSE Steering Committee
- Stephan Krusche, TU München, Germany
- Horst Lichter, RWTH Aachen University, Germany
- Dirk Riehle, FAU Nürnberg, Germany
- Andreas Steffens, RWTH Aachen University, Germany
- 
-QUDOS Steering Committee
- Danilo Ardagna, Politecnico di Milano, Italy
- Giuliano Casale, Imperial College London, UK
- Andre van Hoorn, University of Stuttgart, Germany
- Philipp Leitner, Chalmers | University of Gothenburg, Sweden
-
-------------------------------------------------------------------------
 SUBMISSION GUIDELINES
 
 Authors are invited to submit original, unpublished papers that are not being considered in another forum.  We solicit full papers (max 7 pages),short papers (max 4 pages), and industry abstracts (max 2 pages). All submissions must conform to the IEEE conference format. 
