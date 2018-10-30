@@ -8,11 +8,11 @@ permalink: /important_dates/
 
 | Full paper submission deadline | Jan 17, 2019 (AoE)|
 
-| Paper notification | Feb 07, 2019 |
+| Paper notification                  | Feb 07, 2019 |
 
-| Camera-ready deadline | Feb 21, 2019 |
+| Camera-ready deadline               | Feb 21, 2019 |
 
-| Workshop date | Mar 26, 2019 |
+| Workshop date                       | Mar 26, 2019 |
 
 <style>
 table{

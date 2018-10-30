@@ -4,11 +4,6 @@ title: Call for Papers
 permalink: /call_for_papers/
 ---
 
-
-
-------------------------------------------------------------------------------------------
-CALL FOR PAPERS
-
 Joint CSE/QUDOS Workshop 2019
 
 4th Workshop on Continuous Software Engineering 
@@ -17,8 +12,7 @@ and
 
  5th International Workshop on Quality-Aware DevOps
 
-Co-located with the
-           IEEE International Conference on Software Architecture (ICSA 2019)
+Co-located with the IEEE International Conference on Software Architecture (ICSA 2019)
 
 Hamburg, Germany
 March 26, 2019
@@ -28,17 +22,6 @@ https://cse2019.swc-rwth.de/
 http://2019.qudos-workshop.org/
 
 https://twitter.com/qudos_workshop
-
-------------------------------------------------------------------------------------------
-IMPORTANT DATES
-
-Submission deadline              Jan 17, 2019 (AoE)
-
-Paper notification                    Feb 07, 2019
-
-Camera-ready deadline                 Feb 21, 2019
-
-Workshop date                         Mar 26, 2019
 
 ------------------------------------------------------------------------------------------
 
