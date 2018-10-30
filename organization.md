@@ -6,7 +6,8 @@ permalink: /organization/
 #### Program Committee Chairs
 
 [Damian A. Tamburri](https://www.linkedin.com/in/maelstrom/?originalSubdomain=nl), TU/e - JADS, The Netherlands
-[Uwe Zdun](https://cs.univie.ac.at/Uwe.Zdun/),  Uwe Zdun, University of Vienna, Austria 
+
+[Uwe Zdun](https://cs.univie.ac.at/Uwe.Zdun/), University of Vienna, Austria 
 
 #### Steering Committee
 
@@ -19,10 +20,15 @@ permalink: /organization/
 ### Program Committee
 
  Varsha Apte, IIT Bombay, India
+ 
  Alberto Avritzer, Sonatype, USA
+ 
  Jan Bosch, Chalmers U of Technology, Sweden
+ 
  Andreas Brunnert, RETIT, Germany
+ 
  Lubomír Bulej, Charles U, Czech Republic
+ 
  David Carrera, U Politècnica de Catalunya, Spain
  Jürgen Cito, U of Zurich, Switzerland
  Antonio Filieri, Imperial College London, UK
