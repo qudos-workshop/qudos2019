@@ -1,3 +1,11 @@
+---
+layout: page
+title: Call for Papers
+permalink: /call_for_papers/
+---
+
+
+
 ------------------------------------------------------------------------------------------
 CALL FOR PAPERS
 
