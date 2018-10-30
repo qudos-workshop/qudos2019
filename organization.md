@@ -26,17 +26,11 @@ permalink: /organization/
  Jan Bosch, Chalmers U of Technology, Sweden
  
  Andreas Brunnert, RETIT, Germany
-<<<<<<< HEAD
- 
+
  Lubomír Bulej, Charles U, Czech Republic
  
  David Carrera, U Politècnica de Catalunya, Spain
  Jürgen Cito, U of Zurich, Switzerland
-=======
- LubomÃ­r Bulej, Charles U, Czech Republic
- David Carrera, U PolitÃ¨cnica de Catalunya, Spain
- JÃ¼rgen Cito, U of Zurich, Switzerland
->>>>>>> origin/master
  Antonio Filieri, Imperial College London, UK
  Daniel Fogl, FAU NÃ¼rnberg, Germany
  Michael Goedicke, U Duisburg-Essen, Germany
