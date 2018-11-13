@@ -57,7 +57,7 @@ Program Committee Chairs
  Andreas Steffens, RWTH Aachen University, Germany
  Uwe Zdun,University of Vienna, Austria 
 
-Program Committee (partly to be confirmed)
+Program Committee
  Varsha Apte, IIT Bombay, India
  Alberto Avritzer, Sonatype, USA
  Jan Bosch, Chalmers U of Technology, Sweden
