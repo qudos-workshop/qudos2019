@@ -114,7 +114,7 @@ https://easychair.org/conferences/?conf=cse-qudos2019
 At least one author of each accepted paper is required to attend the workshop and present the paper. Presented papers will be published by IEEE and included in the IEEE Digital Library.
 
 ------------------------------------------------------------------------
-ORGANIZATION AND SUPPORT (partly to be confirmed)
+ORGANIZATION AND SUPPORT
 
 The Joint CSE/QUDOS Workshop 2019 is organized and technically sponsored by the Research Group (RG) and the DevOps Performance Working Group of the Standard Performance Evaluation Corporation (SPEC RG, http://research.spec.org), and by the consortium of the EU project RADON.
 
