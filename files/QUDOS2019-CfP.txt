@@ -1,13 +1,13 @@
 ------------------------------------------------------------------------------------------
-CALL FOR PAPERS
+                                       CALL FOR PAPERS
 
-Joint CSE/QUDOS Workshop 2019
-4th Workshop on Continuous Software Engineering 
-and 
- 5th International Workshop on Quality-Aware DevOps
+                                 Joint CSE/QUDOS Workshop 2019
+                         4th Workshop on Continuous Software Engineering 
+                                             and 
+                       5th International Workshop on Quality-Aware DevOps
 
-Co-located with the
-           IEEE International Conference on Software Architecture (ICSA 2019)
+                                     Co-located with the
+                 IEEE International Conference on Software Architecture (ICSA 2019)
 
 Hamburg, Germany
 March 26, 2019
@@ -59,20 +59,15 @@ Program Committee Chairs
 
 Program Committee
  Varsha Apte, IIT Bombay, India
- Alberto Avritzer, Sonatype, USA
  Jan Bosch, Chalmers U of Technology, Sweden
  Andreas Brunnert, RETIT, Germany
  Lubomír Bulej, Charles U, Czech Republic
  David Carrera, U Politècnica de Catalunya, Spain
  Jürgen Cito, U of Zurich, Switzerland
  Antonio Filieri, Imperial College London, UK
- Daniel Fogl, FAU Nürnberg, Germany
- Michael Goedicke, U Duisburg-Essen, Germany
  Zhen Ming (Jack) Jiang, York U, Canada
  Martin Jung, develop group, Germany
  Thomas Kurpick, Trusted Shops, Germany
- Klaus-Dieter Lange, HP Enterprise, USA
- Marin Litoiu, York U, Canada
  Zoltán Adam Mann, U Duisburg-Essen, Germany
  Christian Nester, Google Inc., USA
  Claus Pahl, Free U of Bozen-Bolzano, Italy
@@ -87,7 +82,6 @@ Program Committee
  Christian Uhl, codecentric AG, Germany
  Stefan Wagner, U Stuttgart, Germany
  Ingo Weber, NICTA, Australia
- Erik Wilde, CA API Academy, USA
 
 CSE Steering Committee
  Stephan Krusche, TU München, Germany
@@ -109,7 +103,7 @@ Authors are invited to submit original, unpublished papers that are not being co
 Each full paper submission will be reviewed by at least three members of the program committee.
 
 Papers should be submitted via EasyChair at:
-https://easychair.org/conferences/?conf=cse-qudos2019
+https://easychair.org/conferences/?conf=csequdos2019
 
 At least one author of each accepted paper is required to attend the workshop and present the paper. Presented papers will be published by IEEE and included in the IEEE Digital Library.
 
@@ -121,6 +115,5 @@ The Joint CSE/QUDOS Workshop 2019 is organized and technically sponsored by the 
 The workshop is also supported by 
 IFIP Working Group on Service Oriented Systems (http://ifip-wg-sos.deib.polimi.it/) 
 DFG Priority Programme 1593 (SPP 1593) "Design For Future - Managed Software
-Evolution" (http://www.dfg-spp1593.de/), funded by the German Research
-Foundation (DFG). 
+Evolution" (http://www.dfg-spp1593.de/), funded by the German Research Foundation (DFG). 
 GI Working Group Microservices and DevOps (https://ak-msdo.gi.de/)
