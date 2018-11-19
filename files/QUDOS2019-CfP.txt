@@ -59,7 +59,7 @@ Program Committee Chairs
 
 Program Committee
  Varsha Apte, IIT Bombay, India
- Alberto Avritzer, Sonatype, USA
+ Alberto Avritzer, eSulabSolutions, Inc., USA
  Jan Bosch, Chalmers U of Technology, Sweden
  Andreas Brunnert, RETIT, Germany
  Lubomír Bulej, Charles U, Czech Republic
@@ -71,7 +71,7 @@ Program Committee
  Zhen Ming (Jack) Jiang, York U, Canada
  Martin Jung, develop group, Germany
  Thomas Kurpick, Trusted Shops, Germany
- Klaus-Dieter Lange, HP Enterprise, USA
+ Klaus-Dieter Lange, HPE, USA
  Marin Litoiu, York U, Canada
  Zoltán Adam Mann, U Duisburg-Essen, Germany
  Christian Nester, Google Inc., USA
