@@ -21,7 +21,7 @@ permalink: /organization/
 
  Varsha Apte, IIT Bombay, India
  
- Alberto Avritzer, Sonatype, USA
+ Alberto Avritzer, eSulabSolutions, Inc., USA
  
  Jan Bosch, Chalmers U of Technology, Sweden
  
@@ -45,7 +45,7 @@ permalink: /organization/
  
  Thomas Kurpick, Trusted Shops, Germany
  
- Klaus-Dieter Lange, HP Enterprise, USA
+ Klaus-Dieter Lange, HPE, USA
  
  Marin Litoiu, York U, Canada
  
