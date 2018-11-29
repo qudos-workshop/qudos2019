@@ -71,7 +71,6 @@ Program Committee
  Thomas Kurpick, Trusted Shops, Germany
  Klaus-Dieter Lange, HPE, USA
  Zoltán Adam Mann, U Duisburg-Essen, Germany
- Christian Nester, Google Inc., USA
  Claus Pahl, Free U of Bozen-Bolzano, Italy
  Cesare Pautasso, U of Lugano, Switzerland 
  Dorina Petriu, Carleton U, Canada
