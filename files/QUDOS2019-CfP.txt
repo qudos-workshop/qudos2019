@@ -59,11 +59,7 @@ Program Committee Chairs
 
 Program Committee
  Varsha Apte, IIT Bombay, India
-<<<<<<< HEAD
  Alberto Avritzer, eSulabSolutions, Inc., USA
-=======
- Alberto Avritzer, eSulabSolutions Inc., USA
->>>>>>> origin/master
  Jan Bosch, Chalmers U of Technology, Sweden
  Andreas Brunnert, RETIT, Germany
  Lubomír Bulej, Charles U, Czech Republic
@@ -74,10 +70,6 @@ Program Committee
  Martin Jung, develop group, Germany
  Thomas Kurpick, Trusted Shops, Germany
  Klaus-Dieter Lange, HPE, USA
-<<<<<<< HEAD
- Marin Litoiu, York U, Canada
-=======
->>>>>>> origin/master
  Zoltán Adam Mann, U Duisburg-Essen, Germany
  Christian Nester, Google Inc., USA
  Claus Pahl, Free U of Bozen-Bolzano, Italy
