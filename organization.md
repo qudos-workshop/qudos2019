@@ -27,11 +27,11 @@ Jan Bosch, Chalmers U of Technology, Sweden
 
 Andreas Brunnert, RETIT, Germany
 
-Lubomír Bulej, Charles U, Czech Republic
+Lubomir Bulej, Charles U, Czech Republic
 
-David Carrera, U Politècnica de Catalunya, Spain
+David Carrera, U Politecnica de Catalunya, Spain
 
-Jürgen Cito, U of Zurich, Switzerland
+Jurgen Cito, U of Zurich, Switzerland
 
 Antonio Filieri, Imperial College London, UK
 
@@ -43,7 +43,7 @@ Thomas Kurpick, Trusted Shops, Germany
 
 Klaus-Dieter Lange, HPE, USA
 
-Zoltán Adam Mann, U Duisburg-Essen, Germany
+Zoltan Adam Mann, U Duisburg-Essen, Germany
 
 Claus Pahl, Free U of Bozen-Bolzano, Italy
 
