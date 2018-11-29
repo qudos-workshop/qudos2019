@@ -61,7 +61,7 @@ Asser Tantawi, IBM Research, USA
 
 Matthias Tichy, U Ulm, Germany
 
-Petr T?ma, Charles U, Czech Republic
+Petr Tuma, Charles U, Czech Republic
 
 Christian Uhl, codecentric AG, Germany
 
