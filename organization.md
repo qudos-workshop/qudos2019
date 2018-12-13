@@ -22,9 +22,9 @@ The 2019 edition of QUDOS is a joint event, co-organized together with the [Cont
 
 #### CSE Steering Committee
 
-[Stephan Krusche](https://www1.in.tum.de/lehrstuhl_1/index.php/people/362-stephan-krusche), TU München, Germany
-[Horst Lichter](https://www.swc.rwth-aachen.de/teammember/horst-lichter/), RWTH Aachen University, Germany
-[Dirk Riehle](https://osr.cs.fau.de/people/riehle-dirk/), FAU Nürnberg, Germany
+[Stephan Krusche](https://www1.in.tum.de/lehrstuhl_1/index.php/people/362-stephan-krusche), TU München, Germany  
+[Horst Lichter](https://www.swc.rwth-aachen.de/teammember/horst-lichter/), RWTH Aachen University, Germany  
+[Dirk Riehle](https://osr.cs.fau.de/people/riehle-dirk/), FAU Nürnberg, Germany  
 [Andreas Steffens](https://www.swc.rwth-aachen.de/teammember/andreas-steffens/), RWTH Aachen University, Germany
 
 ### Program Committee
