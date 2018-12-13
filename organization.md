@@ -8,9 +8,9 @@ The 2019 edition of QUDOS is a joint event, co-organized together with the [Cont
 
 #### Program Committee Chairs
 
-[Damian A. Tamburri](https://www.linkedin.com/in/maelstrom/?originalSubdomain=nl), TU/e - JADS, The Netherlands
-[Stephan Krusche](https://www1.in.tum.de/lehrstuhl_1/index.php/people/362-stephan-krusche), TU Munich, Germany
-[Andreas Steffens](https://www.swc.rwth-aachen.de/teammember/andreas-steffens/), RWTH Aachen University, Germany
+[Damian A. Tamburri](https://www.linkedin.com/in/maelstrom/?originalSubdomain=nl), TU/e - JADS, The Netherlands  
+[Stephan Krusche](https://www1.in.tum.de/lehrstuhl_1/index.php/people/362-stephan-krusche), TU Munich, Germany  
+[Andreas Steffens](https://www.swc.rwth-aachen.de/teammember/andreas-steffens/), RWTH Aachen University, Germany  
 [Uwe Zdun](https://cs.univie.ac.at/Uwe.Zdun/), University of Vienna, Austria 
 
 #### QUDOS Steering Committee
