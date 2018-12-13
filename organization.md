@@ -4,7 +4,7 @@ title: Organization
 permalink: /organization/
 ---
 
-The 2019 edition of QUDOS is a joint event co-organized together with the [Continuous Software Engineering](https://cse2019.swc-rwth.de/) workshop series. 
+The 2019 edition of QUDOS is a joint event, co-organized together with the [Continuous Software Engineering](https://cse2019.swc-rwth.de/) workshop series. 
 
 #### Program Committee Chairs
 
