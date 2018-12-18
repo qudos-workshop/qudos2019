@@ -5,6 +5,8 @@
 layout: page
 ---
 
+![QUDOS2019]({{ site.baseurl }}/images/banner.png "CSE/QUDOS 2019")
+
 #### 5th International Workshop on Quality-Aware DevOps (QUDOS 2019), joint with the 4th Workshop on Continuous Software Engineering (CSE 2019)
 
 QUDOS 2019 will be held on Mar 26th, 2019 in Hamburg, Germany and will be co-located with the [3rd International Conference on Software Architectures (ICSA 2019)](https://swk-www.informatik.uni-hamburg.de/~icsa2019/).
