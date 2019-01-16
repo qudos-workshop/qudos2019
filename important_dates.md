@@ -4,7 +4,7 @@ title: Important dates
 permalink: /important_dates/
 ---
 
-| Full paper submission deadline | Jan 17, 2019 (AoE)|
+| Submission deadline |<s> Jan 17, 2019 (AoE)</s> <b> Extended! Jan 24th</b>|
 
 | Paper notification                       | Feb 07, 2019 |
 
