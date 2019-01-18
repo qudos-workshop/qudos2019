@@ -4,6 +4,12 @@ title: Call for Papers
 permalink: /call_for_papers/
 ---
 
+### Download Call for Papers
+
+As [PDF](/files/QUDOS2019-CfP-Flyer.pdf) or [TXT](/files/QUDOS2019-CfP.txt).
+
+------------------------------------------------------------------------------------------
+
 Joint CSE/QUDOS Workshop 2019
 
 4th Workshop on Continuous Software Engineering 
