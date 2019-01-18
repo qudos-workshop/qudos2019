@@ -13,6 +13,8 @@ QUDOS 2019 will be held on Mar 26th, 2019 in Hamburg, Germany and will be co-loc
 
 Download Call for Papers as [PDF](/files/QUDOS2019-CfP-Flyer.pdf) or [TXT](/files/QUDOS2019-CfP.txt).
 
+![QUDOS2019-Flyer]({{ site.baseurl }}/images/QUDOS2019-CfP-Flyer-thumbnail.png "CSE/QUDOS 2019 CfP Flyer")
+
 The QUDOS workshop provides a forum for experts from academia and industry to present and discuss novel quality-aware methods, practices and tools for DevOps.
 
 DevOps extends the agile development principles to include the full stack of software services, from design to execution, enabling and promoting collaboration of operations, quality assurance, and development engineers throughout the entire service lifecycle. Ultimately, DevOps is a process that enables faster releases of a better product to the end user. DevOps encompasses a set of values, principles, methods, practices, and tools, to accelerate software delivery to the customer by means of infrastructure as code, continuous integration and deployment, automated testing and monitoring, or new architectural styles such as microservices. In the end all common software engineering activities, organizational forms and processes have to be questioned, adapted and extended to ensure continuous and unobstructed software development, this is the aim of continuous software engineering (CSE)research. Current software engineering research mainly deals with the development aspects of DevOps and CSE, focusing on development methods, practices, and tools, leaving the quality assurance aspects of DevOps behind.
