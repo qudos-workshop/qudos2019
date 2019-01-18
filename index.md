@@ -13,7 +13,7 @@ QUDOS 2019 will be held on Mar 26th, 2019 in Hamburg, Germany and will be co-loc
 
 Download Call for Papers as [PDF](/files/QUDOS2019-CfP-Flyer.pdf) or [TXT](/files/QUDOS2019-CfP.txt).
 
-![QUDOS2019-Flyer]({{ site.baseurl }}/images/QUDOS2019-CfP-Flyer-thumbnail.png "CSE/QUDOS 2019 CfP Flyer")
+![QUDOS2019-Flyer]({{ site.baseurl }}/files/QUDOS2019-CfP-Flyer-thumbnail.png "CSE/QUDOS 2019 CfP Flyer")
 
 The QUDOS workshop provides a forum for experts from academia and industry to present and discuss novel quality-aware methods, practices and tools for DevOps.
 
