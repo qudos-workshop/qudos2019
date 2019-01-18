@@ -4,9 +4,10 @@ title: Call for Papers
 permalink: /call_for_papers/
 ---
 
-### Download Call for Papers
+Download Call for Papers as [PDF](/files/QUDOS2019-CfP-Flyer.pdf) or [TXT](/files/QUDOS2019-CfP.txt).
 
-As [PDF](/files/QUDOS2019-CfP-Flyer.pdf) or [TXT](/files/QUDOS2019-CfP.txt).
+![QUDOS2019-Flyer]({{ site.baseurl }}/files/QUDOS2019-CfP-Flyer-thumbnail.png "CSE/QUDOS 2019 CfP Flyer")
+
 
 ------------------------------------------------------------------------------------------
 
