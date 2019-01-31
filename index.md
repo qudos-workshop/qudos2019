@@ -10,7 +10,11 @@ layout: page
 #### 5th International Workshop on Quality-Aware DevOps (QUDOS 2019), joint with the 4th Workshop on Continuous Software Engineering (CSE 2019)
 
 QUDOS 2019 will be held on Mar 26th, 2019 in Hamburg, Germany and will be co-located with the [3rd International Conference on Software Architectures (ICSA 2019)](https://swk-www.informatik.uni-hamburg.de/~icsa2019/).
+#
+<th class="tg-baqh">NEWS! We are honored to inform you that esteemed Prof. Dr. Ian Gorton will deliver our morning Keynote on "Engineering at Hyperscale - Architectural Issues and Challenges".</th>
 
+
+#
 Download Call for Papers as [PDF](/files/QUDOS2019-CfP-Flyer.pdf) or [TXT](/files/QUDOS2019-CfP.txt).
 
 The QUDOS workshop provides a forum for experts from academia and industry to present and discuss novel quality-aware methods, practices and tools for DevOps.
