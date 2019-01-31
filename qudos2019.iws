@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="14c3d4f9-a2c6-4c67-90f8-1f906e6466b4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/program_old.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/program.md" beforeDir="false" afterPath="$PROJECT_DIR$/program.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/qudos2019.iws" beforeDir="false" afterPath="$PROJECT_DIR$/qudos2019.iws" afterDir="false" />
-    </list>
+    <list default="true" id="14c3d4f9-a2c6-4c67-90f8-1f906e6466b4" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,7 +13,7 @@
     <session id="895338583">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="9" />
+          <entry key="project.closed" value="10" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.16" value="1" />
@@ -232,16 +227,15 @@
       <workItem from="1544692666787" duration="148000" />
       <workItem from="1547629771757" duration="443000" />
       <workItem from="1548839352493" duration="793000" />
-      <workItem from="1548972140243" duration="1598000" />
+      <workItem from="1548972140243" duration="1673000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4801000" />
+    <option name="totallyTimeSpent" value="4876000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="819" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2746781" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
