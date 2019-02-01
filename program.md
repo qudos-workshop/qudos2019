@@ -37,7 +37,7 @@ permalink: /program/
 <td class="tg-baqh">9:30</td>
 <td class="tg-baqh">10:15</td>
 <td class="tg-baqh">Keynote</td>
-<td class="tg-yw4l">NEWS! Prof. Dr. Ian Gorton on "Engineering at Hyperscale - Architectural Issues and Challenges"</br>
+<td class="tg-yw4l">NEWS! Prof. Dr. Ian Gorton on "Engineering at Hyperscale - Architectural Issues and Challenges"
   
 <p></p>  
   
