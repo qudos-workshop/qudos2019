@@ -37,7 +37,7 @@ permalink: /program/
 <td class="tg-baqh">9:30</td>
 <td class="tg-baqh">10:15</td>
 <td class="tg-baqh">Keynote</td>
-<td class="tg-yw4l">NEWS! Prof. Dr. Ian Gorton on "Engineering at Hyperscale - Architectural Issues and Challenges"
+<td class="tg-yw4l">NEWS! Prof. Dr. Ian Gorton on "Engineering at Hyperscale - Architectural Issues and Challenges"</br>
   
 <p><b>Abstract</b>. It seems difficult to believe that Web sites such as Youtube.com
 (debuted in November 2005) and Facebook.com (public access in 2006) have
