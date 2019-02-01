@@ -37,7 +37,40 @@ permalink: /program/
 <td class="tg-baqh">9:30</td>
 <td class="tg-baqh">10:15</td>
 <td class="tg-baqh">Keynote</td>
-<th class="tg-yw4l">NEWS! Prof. Dr. Ian Gorton on "Engineering at Hyperscale - Architectural Issues and Challenges"</th>
+<th class="tg-yw4l">NEWS! Prof. Dr. Ian Gorton on "Engineering at Hyperscale - Architectural Issues and Challenges"
+<b>Abstract</b>. It seems difficult to believe that Web sites such as Youtube.com
+(debuted in November 2005) and Facebook.com (public access in 2006) have
+been around for barely a decade. In 2015 Youtube had more than a billion
+users, who watched 4 billion videos per day and uploaded 300 hours of
+video per minute. In 2009, Facebook stored 15 billion photos, occupying
+1.5 petabytes (PBs) and at that time growing at a rate of 30 million
+photos per day. In 2015, Facebook users uploaded 2 billion photos each
+day, requiring 40 PB of new disk capacity daily. Recently it was
+reported that Google’s code base contained 2 billion LoC.
+
+Traffic and storage magnitudes and code complexities  such as these will
+only grow in the future., as in terms of rate of growth, Youtube and
+Facebook are by no means unique. With the imminent explosion of the
+Internet of Things – up to 50 billion new devices are forecast by 2020-
+the scale of the systems we build to capture, analyze and exploit this
+ballooning data will continue to grow exponentially. We refer to these
+systems as hyper scalable systems
+
+Experience building hyper scalable systems has clearly demonstrated that
+requirements for extreme scale challenge and break many dearly held
+tenets of software engineering. For example, hyper scale systems cannot
+be thoroughly system tested before deployment due to their scale and
+need to run 24×7. Hence new, innovative engineering approaches must be
+adopted to enable systems to rapidly scale at a pace that keeps up with
+business and functional requirements, and at acceptable, predictable costs
+
+This talk is about engineering systems at hyperscale. It briefly
+describes the characteristics of hyperscale systems, and some of the
+core principles that are necessary to ensure hyperscalability. These
+principles are illustrated by state of the art approaches and
+technologies that are used to in continuous development for
+hyperscalable systems.  
+</th>
 </tr>
 <tr>
 <td class="tg-baqh"></td>
