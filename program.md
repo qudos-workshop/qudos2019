@@ -37,7 +37,8 @@ permalink: /program/
 <td class="tg-baqh">9:30</td>
 <td class="tg-baqh">10:15</td>
 <td class="tg-baqh">Keynote</td>
-<th class="tg-yw4l">NEWS! Prof. Dr. Ian Gorton on "Engineering at Hyperscale - Architectural Issues and Challenges"
+<td class="tg-yw4l">NEWS! Prof. Dr. Ian Gorton on "Engineering at Hyperscale - Architectural Issues and Challenges"
+  
 <b>Abstract</b>. It seems difficult to believe that Web sites such as Youtube.com
 (debuted in November 2005) and Facebook.com (public access in 2006) have
 been around for barely a decade. In 2015 Youtube had more than a billion
@@ -70,7 +71,7 @@ core principles that are necessary to ensure hyperscalability. These
 principles are illustrated by state of the art approaches and
 technologies that are used to in continuous development for
 hyperscalable systems.  
-</th>
+</td>
 </tr>
 <tr>
 <td class="tg-baqh"></td>
