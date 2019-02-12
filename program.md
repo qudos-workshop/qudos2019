@@ -1,9 +1,10 @@
 ---
 layout: page
-title: Program
+title: Program (Preliminary)
 permalink: /program/
 ---
 
+QUDOS 2019 will be held on Mar 26th, 2019 in Hamburg, Germany and will be co-located with the [3rd International Conference on Software Architectures (ICSA 2019)](https://swk-www.informatik.uni-hamburg.de/~icsa2019/).
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;border-color:#ccc;}
@@ -28,16 +29,16 @@ permalink: /program/
 <tr>
 <td class="tg-s6z2" rowspan="2">Session 1<br></td>
 <td class="tg-baqh">9:00<br></td>
-<td class="tg-baqh"></td>
+<td class="tg-baqh">9:30</td>
 <td class="tg-baqh"></td>
 <td class="tg-yw4l">Opening and Welcome</td>
 </tr>
 <tr>
-<td class="tg-baqh"></td>
+<td class="tg-baqh"></td>  
 <td class="tg-baqh">9:30</td>
-<td class="tg-baqh">10:15</td>
-<td class="tg-baqh">Keynote</td>
-<td class="tg-yw4l">NEWS! Prof. Dr. Ian Gorton on "Engineering at Hyperscale - Architectural Issues and Challenges"
+<td class="tg-baqh">10:30</td>
+<td class="tg-baqh"><b>Keynote:</b></td>
+<td class="tg-yw4l"> Prof. Dr. Ian Gorton on "Engineering at Hyperscale - Architectural Issues and Challenges"
   
 <p></p>  
   
@@ -85,7 +86,59 @@ hyperscalable systems.</p>
 <td class="tg-baqh"></td>
 <td class="tg-baqh">10:30</td>
 <td class="tg-baqh">11:00</td>
-<td class="tg-baqh">Discussion</td>
+<td class="tg-baqh">Coffee Break</td>
 <td class="tg-yw4l"></td>
 </tr>
+<tr>
+<td class="tg-s6z2" rowspan="1">Session 2<br></td>
+<td class="tg-baqh">11:00<br></td>
+<td class="tg-baqh">12:30</td>
+<td class="tg-baqh"></td>
+<td class="tg-yw4l">Paper presentations</td>
+</tr>
+<tr>
+<td class="tg-baqh"></td>
+<td class="tg-baqh">12:30</td>
+<td class="tg-baqh">14:00</td>
+<td class="tg-baqh">Lunch</td>
+<td class="tg-yw4l"></td>
+</tr>
+<tr>
+<td class="tg-s6z2" rowspan="1">Session 3<br></td>
+<td class="tg-baqh">14:00<br></td>
+<td class="tg-baqh">15:30</td>
+<td class="tg-baqh"></td>
+<td class="tg-yw4l">Panel</td>
+</tr>
+<tr>
+<td class="tg-baqh"></td>
+<td class="tg-baqh">15:30</td>
+<td class="tg-baqh">16:00</td>
+<td class="tg-baqh">Coffee Break</td>
+<td class="tg-yw4l"></td>
+</tr>
+<tr>
+<td class="tg-s6z2" rowspan="1">Session 4<br></td>
+<td class="tg-baqh">11:00<br></td>
+<td class="tg-baqh">12:30</td>
+<td class="tg-baqh"></td>
+<td class="tg-yw4l">Paper presentations</td>
+</tr>
+<tr>
+<td class="tg-s6z2" rowspan="1">Session 4<br></td>
+<td class="tg-baqh">17:30<br></td>
+<td class="tg-baqh"></td>
+<td class="tg-baqh"></td>
+<td class="tg-yw4l">Closing</td>
+</tr>
+<tr>
+<td class="tg-s6z2" rowspan="1">Social Event<br></td>
+<td class="tg-baqh">17:30<br></td>
+<td class="tg-baqh"></td>
+<td class="tg-baqh"></td>
+<td class="tg-yw4l">[ICSA 2019 Mayor’s Welcome Reception](https://swk-www.informatik.uni-hamburg.de/~icsa2019/attending/social-events/index.html)</td>
+</tr>
+
+
+
 </table>
