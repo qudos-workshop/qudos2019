@@ -147,7 +147,7 @@ hyperscalable systems.</p>
 <td class="tg-baqh">17:30<br></td>
 <td class="tg-baqh"></td>
 <td class="tg-baqh"></td>
-<td class="tg-yw4l">[ICSA 2019 Mayor’s Welcome Reception](https://swk-www.informatik.uni-hamburg.de/~icsa2019/attending/social-events/index.html)</td>
+  <td class="tg-yw4l"><a href="https://swk-www.informatik.uni-hamburg.de/~icsa2019/attending/social-events/index.html">ICSA 2019 Mayor’s Welcome Reception</a></td>
 </tr>
 
 
