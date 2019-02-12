@@ -6,6 +6,18 @@ permalink: /program/
 
 QUDOS 2019 will be held on Mar 26th, 2019 in Hamburg, Germany and will be co-located with the [3rd International Conference on Software Architectures (ICSA 2019)](https://swk-www.informatik.uni-hamburg.de/~icsa2019/).
 
+List of accepted papers (confirmed):
+<ul>
+  <li>Robert Chatley, Tony Field and David Wei. Continuous Performance Testing in Virtual Time</li>
+  <li>Philipp Obergfell, Stefan Kugele, Christoph Segler, Alois Knoll and Eric Sax. Continuous Software Engineering of Innovative Automotive Functions: An Industrial Perspective</li>
+  <li>Christina Paule, Thomas F. Düllmann and André van Hoorn. Vulnerabilities in Continuous Delivery Pipelines? A Case Study</li>
+  <li>Justus Bogner, Tobias Boceck, Matthias Popp, Dennis Tschechlov, Stefan Wagner and Alfred Zimmermann. Towards a Collaborative Repository for the Documentation of Service-Based Antipatterns and Bad Smells</li>
+  <li>Wilhelm Hasselbring, Sören Henning, Björn Latte, Armin Möbius, Thomas Richter, Stefan Schalk and Maik Wojcieszak. Industrial DevOps</li>
+  <li>Philipp Haindl and Reinhold Ploesch. Towards Continuous Quality: Measuring and Evaluating Feature-Dependent Non-Functional Requirements in DevOps</li>
+  <li>Dominik Ernst, Alexander Becker and Stefan Tai. Rapid Canary Assessment Through Proxying and Two-Stage Load Balancing</li>
+  <li>Neil Ernst, Rick Kazman and Philip Bianco. Component Comparison, Evaluation, and Selection: A Continuous Approach</li>
+</ul>
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;border-color:#ccc;}
 .tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#ccc;color:#333;background-color:#fff;}
@@ -34,7 +46,6 @@ QUDOS 2019 will be held on Mar 26th, 2019 in Hamburg, Germany and will be co-loc
 <td class="tg-yw4l">Opening and Welcome</td>
 </tr>
 <tr>
-<td class="tg-baqh"></td>  
 <td class="tg-baqh">9:30</td>
 <td class="tg-baqh">10:30</td>
 <td class="tg-baqh"><b>Keynote:</b></td>
