@@ -130,8 +130,8 @@ hyperscalable systems.</p>
 </tr>
 <tr>
 <td class="tg-s6z2" rowspan="1">Session 4<br></td>
-<td class="tg-baqh">11:00<br></td>
-<td class="tg-baqh">12:30</td>
+<td class="tg-baqh">16:00<br></td>
+<td class="tg-baqh">17:30</td>
 <td class="tg-baqh"></td>
 <td class="tg-yw4l">Paper presentations</td>
 </tr>
