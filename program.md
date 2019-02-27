@@ -21,20 +21,17 @@ QUDOS 2019 will be held on Mar 26th, 2019 in Hamburg, Germany and will be co-loc
 <table class="tg">
 <tr>
 <th class="tg-le8v"><br></th>
-<th class="tg-u1yq">Start</th>
-<th class="tg-u1yq">End</th>
-<th class="tg-u1yq">Title</th>
+<th class="tg-u1yq"></th>
+<th class="tg-u1yq"></th>
 </tr>
 <tr>
-<td class="tg-s6z2">Opening and Welcome<br></td>
-<td class="tg-baqh">9:00<br></td>
-<td class="tg-baqh">9:15</td>
-<td class="tg-yw4l"></td>
+<td class="tg-s6z2"><br></td>
+<td class="tg-baqh">9:00-9:15<br></td>
+<td class="tg-yw4l">Opening and Welcome</td>
 </tr>
 <tr>
 <td class="tg-s6z2">Keynote / Chair: Horst Lichter</td>
-<td class="tg-baqh">9:15</td>
-<td class="tg-baqh">10:30</td>
+<td class="tg-baqh">9:15-10:30</td>
 <td class="tg-yw4l"> Prof. Dr. Ian Gorton on "Engineering at Hyperscale - Architectural Issues and Challenges"
   
 <p></p>  
@@ -81,14 +78,12 @@ hyperscalable systems.</p>
 </tr>
 <tr>
 <td class="tg-baqh"></td>
-<td class="tg-baqh">10:30</td>
-<td class="tg-baqh">11:00</td>
+<td class="tg-baqh">10:30-11:00</td>
 <td class="tg-baqh">Coffee Break</td>
 </tr>
 <tr>
 <td class="tg-s6z2" rowspan="1">Session A: DevOps Continuity / Chair: Stephan Krusche<br></td>
-<td class="tg-baqh">11:00<br></td>
-<td class="tg-baqh">12:30</td>
+<td class="tg-baqh">11:00-12:30<br></td>
 <td class="tg-baqh">
   <ul>
     <li>Neil Ernst, Rick Kazman and Philip Bianco. Component Comparison, Evaluation, and Selection: A Continuous Approach</li>
@@ -100,14 +95,12 @@ hyperscalable systems.</p>
 </tr>
 <tr>
 <td class="tg-baqh"></td>
-<td class="tg-baqh">12:30</td>
-<td class="tg-baqh">14:00</td>
+<td class="tg-baqh">12:30-14:00</td>
 <td class="tg-baqh">Lunch</td>
 </tr>
 <tr>
 <td class="tg-s6z2" rowspan="1">Session B: Assessment in Industrial DevOps / Chair: Damian A. Tamburri<br></td>
-<td class="tg-baqh">14:00<br></td>
-<td class="tg-baqh">15:30</td>
+<td class="tg-baqh">14:00-15:30<br></td>
 <td class="tg-baqh">
   <ul>
   <li>Robert Chatley, Tony Field and David Wei. Continuous Performance Testing in Virtual Time</li>
@@ -119,8 +112,7 @@ hyperscalable systems.</p>
 </tr>
 <tr>
 <td class="tg-baqh"></td>
-<td class="tg-baqh">15:30</td>
-<td class="tg-baqh">16:00</td>
+<td class="tg-baqh">15:30-16:00</td>
 <td class="tg-baqh">Coffee Break</td>
 </tr>
 <tr>
@@ -132,25 +124,21 @@ hyperscalable systems.</p>
   <li>Philipp Obergfell, Stefan Kugele, Christoph Segler, Alois Knoll and Eric Sax. Continuous Software Engineering of Innovative Automotive Functions: An Industrial Perspective</li>
   </ul>
 </td>
-<td class="tg-yw4l">Paper presentation</td>
 </tr>
 <tr>
 <td class="tg-s6z2" rowspan="1">Panel<br></td>
-<td class="tg-baqh">16:20<br></td>
-<td class="tg-baqh">17:20</td>
+<td class="tg-baqh">16:20-17:20<br></td>
 <td class="tg-baqh"> Industrial & Academic Research on DevOps</td>
-<td class="tg-yw4l">Panel</td>
 </tr>
 <tr>
 <td class="tg-s6z2" rowspan="1">Closing<br></td>
-<td class="tg-baqh">17:20<br></td>
-<td class="tg-baqh">17:30</td>
+<td class="tg-baqh">17:20-17:30<br></td>
 <td class="tg-baqh"> Closing</td>
 </tr>
 
 <tr>
 <td class="tg-s6z2" rowspan="1">Social Event and Joint Dinner: Brauhaus Joh. Albrecht, Hamburg<br></td>
-<td class="tg-baqh">17:45<br></td>
+<td class="tg-baqh">17:45-<br></td>
 <td class="tg-baqh"></td>
   <td class="tg-yw4l"><a href="https://swk-www.informatik.uni-hamburg.de/~icsa2019/attending/social-events/index.html">ICSA 2019 Mayor’s Welcome Reception</a></td>
 </tr>
