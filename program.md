@@ -138,8 +138,7 @@ hyperscalable systems.</p>
 <tr>
 <td class="tg-s6z2" rowspan="1">Social Event and Joint Dinner: Brauhaus Joh. Albrecht, Hamburg<br></td>
 <td class="tg-baqh">17:45-<br></td>
-<td class="tg-baqh"></td>
-  <td class="tg-yw4l"><a href="https://swk-www.informatik.uni-hamburg.de/~icsa2019/attending/social-events/index.html">ICSA 2019 Mayor’s Welcome Reception</a></td>
+<td class="tg-yw4l"><a href="https://swk-www.informatik.uni-hamburg.de/~icsa2019/attending/social-events/index.html">ICSA 2019 Mayor’s Welcome Reception</a></td>
 </tr>
 
 
