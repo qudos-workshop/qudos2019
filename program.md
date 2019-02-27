@@ -6,18 +6,6 @@ permalink: /program/
 
 QUDOS 2019 will be held on Mar 26th, 2019 in Hamburg, Germany and will be co-located with the [3rd International Conference on Software Architectures (ICSA 2019)](https://swk-www.informatik.uni-hamburg.de/~icsa2019/).
 
-List of accepted papers (confirmed):
-<ul>
-  <li>Robert Chatley, Tony Field and David Wei. Continuous Performance Testing in Virtual Time</li>
-  <li>Philipp Obergfell, Stefan Kugele, Christoph Segler, Alois Knoll and Eric Sax. Continuous Software Engineering of Innovative Automotive Functions: An Industrial Perspective</li>
-  <li>Christina Paule, Thomas F. Düllmann and André van Hoorn. Vulnerabilities in Continuous Delivery Pipelines? A Case Study</li>
-  <li>Justus Bogner, Tobias Boceck, Matthias Popp, Dennis Tschechlov, Stefan Wagner and Alfred Zimmermann. Towards a Collaborative Repository for the Documentation of Service-Based Antipatterns and Bad Smells</li>
-  <li>Wilhelm Hasselbring, Sören Henning, Björn Latte, Armin Möbius, Thomas Richter, Stefan Schalk and Maik Wojcieszak. Industrial DevOps</li>
-  <li>Philipp Haindl and Reinhold Ploesch. Towards Continuous Quality: Measuring and Evaluating Feature-Dependent Non-Functional Requirements in DevOps</li>
-  <li>Dominik Ernst, Alexander Becker and Stefan Tai. Rapid Canary Assessment Through Proxying and Two-Stage Load Balancing</li>
-  <li>Neil Ernst, Rick Kazman and Philip Bianco. Component Comparison, Evaluation, and Selection: A Continuous Approach</li>
-</ul>
-
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;border-color:#ccc;}
 .tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#ccc;color:#333;background-color:#fff;}
@@ -101,10 +89,17 @@ hyperscalable systems.</p>
 <td class="tg-yw4l"></td>
 </tr>
 <tr>
-<td class="tg-s6z2" rowspan="1">Session 2<br></td>
+<td class="tg-s6z2" rowspan="1">Session A: DevOps Continuity / Chair: Stephan Krusche<br></td>
 <td class="tg-baqh">11:00<br></td>
 <td class="tg-baqh">12:30</td>
-<td class="tg-baqh"></td>
+<td class="tg-baqh">
+  <ul>
+    <li>Neil Ernst, Rick Kazman and Philip Bianco. Component Comparison, Evaluation, and Selection: A Continuous Approach</li>
+    <li>Philipp Haindl and Reinhold Ploesch. Towards Continuous Quality: Measuring and Evaluating Feature-Dependent Non-Functional Requirements in DevOps</li>
+  <li>Justus Bogner, Tobias Boceck, Matthias Popp, Dennis Tschechlov, Stefan Wagner and Alfred Zimmermann. Towards a Collaborative Repository for the Documentation of Service-Based Antipatterns and Bad Smells</li>
+  <li>Christina Paule, Thomas F. Düllmann and André van Hoorn. Vulnerabilities in Continuous Delivery Pipelines? A Case Study</li>
+  </ul>
+</td>
 <td class="tg-yw4l">Paper presentations</td>
 </tr>
 <tr>
@@ -115,10 +110,17 @@ hyperscalable systems.</p>
 <td class="tg-yw4l"></td>
 </tr>
 <tr>
-<td class="tg-s6z2" rowspan="1">Session 3<br></td>
+<td class="tg-s6z2" rowspan="1">Session B: Assessment in Industrial DevOps / Chair: Damian A. Tamburri<br></td>
 <td class="tg-baqh">14:00<br></td>
 <td class="tg-baqh">15:30</td>
-<td class="tg-baqh"></td>
+<td class="tg-baqh">
+  <ul>
+  <li>Robert Chatley, Tony Field and David Wei. Continuous Performance Testing in Virtual Time</li>
+  <li>Dominik Ernst, Alexander Becker and Stefan Tai. Rapid Canary Assessment Through Proxying and Two-Stage Load Balancing</li>
+  <li>Ignacio Blanquer, Francisco Brasileiro, Amanda Calatrava, Thiago Emmanuel Pereira and Miguel Caballer. Convenient Deployment of Self-Managed Elastic Clusters on Federated Clouds</li>
+  <li>Wilhelm Hasselbring, Sören Henning, Björn Latte, Armin Möbius, Thomas Richter, Stefan Schalk and Maik Wojcieszak. Industrial DevOps</li>
+  </ul>
+</td>
 <td class="tg-yw4l">Panel</td>
 </tr>
 <tr>
@@ -129,21 +131,33 @@ hyperscalable systems.</p>
 <td class="tg-yw4l"></td>
 </tr>
 <tr>
-<td class="tg-s6z2" rowspan="1">Session 4<br></td>
+<td class="tg-s6z2" rowspan="1">Session C: Industry / Chair: Andreas Steffens & Uwe Zdun<br></td>
 <td class="tg-baqh">16:00<br></td>
-<td class="tg-baqh">17:30</td>
-<td class="tg-baqh"></td>
-<td class="tg-yw4l">Paper presentations</td>
+<td class="tg-baqh">16:20</td>
+<td class="tg-baqh">
+  <ul>
+  <li>Philipp Obergfell, Stefan Kugele, Christoph Segler, Alois Knoll and Eric Sax. Continuous Software Engineering of Innovative Automotive Functions: An Industrial Perspective</li>
+  </ul>
+</td>
+<td class="tg-yw4l">Paper presentation</td>
 </tr>
 <tr>
-<td class="tg-s6z2" rowspan="1">Session 4<br></td>
-<td class="tg-baqh">17:30<br></td>
-<td class="tg-baqh"></td>
-<td class="tg-baqh"></td>
+<td class="tg-s6z2" rowspan="1">Panel<br></td>
+<td class="tg-baqh">16:20<br></td>
+<td class="tg-baqh">17:20</td>
+<td class="tg-baqh"> Industrial & Academic Research on DevOps</td>
+<td class="tg-yw4l">Panel</td>
+</tr>
+<tr>
+<td class="tg-s6z2" rowspan="1">Panel<br></td>
+<td class="tg-baqh">17:20<br></td>
+<td class="tg-baqh">17:30</td>
+<td class="tg-baqh"> Closing</td>
 <td class="tg-yw4l">Closing</td>
 </tr>
+
 <tr>
-<td class="tg-s6z2" rowspan="1">Social Event<br></td>
+<td class="tg-s6z2" rowspan="1">Social Event and Joint Dinner: Brauhaus Joh. Albrecht, Hamburg<br></td>
 <td class="tg-baqh">17:45<br></td>
 <td class="tg-baqh"></td>
 <td class="tg-baqh"></td>
