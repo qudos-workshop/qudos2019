@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Program (Preliminary)
+title: Program
 permalink: /program/
 ---
 
@@ -23,20 +23,18 @@ QUDOS 2019 will be held on Mar 26th, 2019 in Hamburg, Germany and will be co-loc
 <th class="tg-le8v"><br></th>
 <th class="tg-u1yq">Start</th>
 <th class="tg-u1yq">End</th>
-<th class="tg-u1yq">Type</th>
 <th class="tg-u1yq">Title</th>
 </tr>
 <tr>
-<td class="tg-s6z2" rowspan="2">Session 1<br></td>
+<td class="tg-s6z2">Opening and Welcome<br></td>
 <td class="tg-baqh">9:00<br></td>
-<td class="tg-baqh">9:30</td>
-<td class="tg-baqh"></td>
-<td class="tg-yw4l">Opening and Welcome</td>
+<td class="tg-baqh">9:15</td>
+<td class="tg-yw4l"></td>
 </tr>
 <tr>
-<td class="tg-baqh">9:30</td>
+<td class="tg-s6z2">Keynote / Chair: Horst Lichter</td>
+<td class="tg-baqh">9:15</td>
 <td class="tg-baqh">10:30</td>
-<td class="tg-baqh"><b>Keynote:</b></td>
 <td class="tg-yw4l"> Prof. Dr. Ian Gorton on "Engineering at Hyperscale - Architectural Issues and Challenges"
   
 <p></p>  
@@ -86,7 +84,6 @@ hyperscalable systems.</p>
 <td class="tg-baqh">10:30</td>
 <td class="tg-baqh">11:00</td>
 <td class="tg-baqh">Coffee Break</td>
-<td class="tg-yw4l"></td>
 </tr>
 <tr>
 <td class="tg-s6z2" rowspan="1">Session A: DevOps Continuity / Chair: Stephan Krusche<br></td>
@@ -100,14 +97,12 @@ hyperscalable systems.</p>
   <li>Christina Paule, Thomas F. Düllmann and André van Hoorn. Vulnerabilities in Continuous Delivery Pipelines? A Case Study</li>
   </ul>
 </td>
-<td class="tg-yw4l">Paper presentations</td>
 </tr>
 <tr>
 <td class="tg-baqh"></td>
 <td class="tg-baqh">12:30</td>
 <td class="tg-baqh">14:00</td>
 <td class="tg-baqh">Lunch</td>
-<td class="tg-yw4l"></td>
 </tr>
 <tr>
 <td class="tg-s6z2" rowspan="1">Session B: Assessment in Industrial DevOps / Chair: Damian A. Tamburri<br></td>
@@ -121,14 +116,12 @@ hyperscalable systems.</p>
   <li>Wilhelm Hasselbring, Sören Henning, Björn Latte, Armin Möbius, Thomas Richter, Stefan Schalk and Maik Wojcieszak. Industrial DevOps</li>
   </ul>
 </td>
-<td class="tg-yw4l">Panel</td>
 </tr>
 <tr>
 <td class="tg-baqh"></td>
 <td class="tg-baqh">15:30</td>
 <td class="tg-baqh">16:00</td>
 <td class="tg-baqh">Coffee Break</td>
-<td class="tg-yw4l"></td>
 </tr>
 <tr>
 <td class="tg-s6z2" rowspan="1">Session C: Industry / Chair: Andreas Steffens & Uwe Zdun<br></td>
@@ -149,17 +142,15 @@ hyperscalable systems.</p>
 <td class="tg-yw4l">Panel</td>
 </tr>
 <tr>
-<td class="tg-s6z2" rowspan="1">Panel<br></td>
+<td class="tg-s6z2" rowspan="1">Closing<br></td>
 <td class="tg-baqh">17:20<br></td>
 <td class="tg-baqh">17:30</td>
 <td class="tg-baqh"> Closing</td>
-<td class="tg-yw4l">Closing</td>
 </tr>
 
 <tr>
 <td class="tg-s6z2" rowspan="1">Social Event and Joint Dinner: Brauhaus Joh. Albrecht, Hamburg<br></td>
 <td class="tg-baqh">17:45<br></td>
-<td class="tg-baqh"></td>
 <td class="tg-baqh"></td>
   <td class="tg-yw4l"><a href="https://swk-www.informatik.uni-hamburg.de/~icsa2019/attending/social-events/index.html">ICSA 2019 Mayor’s Welcome Reception</a></td>
 </tr>
