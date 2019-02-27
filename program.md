@@ -117,8 +117,7 @@ hyperscalable systems.</p>
 </tr>
 <tr>
 <td class="tg-s6z2" rowspan="1">Session C: Industry / Chair: Andreas Steffens & Uwe Zdun<br></td>
-<td class="tg-baqh">16:00<br></td>
-<td class="tg-baqh">16:20</td>
+<td class="tg-baqh">16:00-16:20<br></td>
 <td class="tg-baqh">
   <ul>
   <li>Philipp Obergfell, Stefan Kugele, Christoph Segler, Alois Knoll and Eric Sax. Continuous Software Engineering of Innovative Automotive Functions: An Industrial Perspective</li>
